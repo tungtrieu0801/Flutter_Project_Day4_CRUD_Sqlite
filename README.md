@@ -1,6 +1,7 @@
 # crudapp
 
 A new Flutter project.
+![UI](https://github.com/tungtrieu0801/Flutter_Project_Day4_CRUD_Sqlite/assets/126808438/6089eb6d-2c6f-4a0f-847b-4223db0acb49)
 
 ## Getting Started
 
